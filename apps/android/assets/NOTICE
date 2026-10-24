@@ -1,0 +1,10 @@
+DS Bot launcher icon
+Copyright 2026 Fei2411 and the DS Bot contributors
+https://github.com/Fei2411/DeepSeek-Bot
+
+icon.png is the upstream desktop icon at app/assets/icon.png, unchanged.
+The adaptive foreground is that same image scaled into the Android safe zone.
+The adaptive background is a flat #FFFFFF plate so the launcher does not show a black frame around the icon.
+
+Licensed under the Apache License, Version 2.0.
+See apps/android/src/vendor/ds-bot/LICENSE.
